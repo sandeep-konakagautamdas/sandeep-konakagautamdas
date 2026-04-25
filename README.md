@@ -65,9 +65,8 @@ Built a full PopPK analysis pipeline for an oral analgesic using nonlinear mixed
 
 | Year | Title | Journal |
 |------|-------|---------|
-| 2023 | [Post-COVID Tuberculosis: An Underrated Duo](https://doi.org/10.1055/s-0043-1778667) | Synlett / Thieme |
-| 2023 | [Retrospective Analysis of Infectious Complications following COVID-19](https://doi.org/10.7759/cureus.48013) | Cureus |
-
+| 2023 | [Post-COVID Tuberculosis: An Underrated Duo](https://doi.org/10.7759/cureus.48013) | Cureus 
+| 2023 | [Retrospective Analysis of Infectious Complications following COVID-19](https://doi.org/10.1055/s-0043-1778667) | Thieme 
 ---
 
 ## 🎓 Education & Training
