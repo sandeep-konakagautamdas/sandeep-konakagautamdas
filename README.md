@@ -29,7 +29,7 @@ Current focus areas:
 - **PK/PD modelling** — linking drug concentrations to clinical outcomes
 - **PBPK modelling** — mechanistic simulation of drug disposition across tissues and populations
 - **Target-mediated drug disposition (TMDD)** — modelling drugs that bind to pharmacological targets
-- Disease areas: **oncology**, infectious disease, diabetes, Alzheimer's, Parkinson's
+- **Disease areas** - Infections, Oncology, Diabetes mellitus, Alzheimer's disease, Parkinson's disease
 
 ---
 
