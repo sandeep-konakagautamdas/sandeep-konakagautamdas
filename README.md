@@ -85,9 +85,9 @@ Built a full PopPK analysis pipeline for an oral analgesic using nonlinear mixed
 
 <div align="center">
 
-![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeep-konakagautamdas&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Sandeep's GitHub Stats](https://github-readme-stats-pink-eight-ye6djufmee.vercel.app/api?username=sandeep-konakagautamdas&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-konakagautamdas&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats-pink-eight-ye6djufmee.vercel.app/api/top-langs/?username=sandeep-konakagautamdas&layout=compact&langs_count=8&hide=html)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sandeep-konakagautamdas.sandeep-konakagautamdas)
 
