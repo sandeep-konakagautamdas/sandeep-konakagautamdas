@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 <div align="center">
 
-# Hi, I'm Sandeep 👋
+# Hi, I'm Sandeep Konaka Gautamdas 👋
 
 ### PharmD → MSc Pharmaceutical Modelling @ Uppsala University
 
