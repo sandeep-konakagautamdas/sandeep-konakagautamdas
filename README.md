@@ -81,20 +81,6 @@ Built a full PopPK analysis pipeline for an oral analgesic using nonlinear mixed
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sandeep's GitHub Stats](https://github-readme-stats-pink-eight-ye6djufmee.vercel.app/api?username=sandeep-konakagautamdas&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-pink-eight-ye6djufmee.vercel.app/api/top-langs/?username=sandeep-konakagautamdas&layout=compact&langs_count=8&hide=html&cache_seconds=1)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sandeep-konakagautamdas.sandeep-konakagautamdas)
-
-</div>
-
----
-
 ## 📬 Get in touch
 
 I'm always up for conversations about pharmacometrics, MIDD, PhD opportunities, or collaborations in drug development modelling.
